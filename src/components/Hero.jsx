@@ -1,9 +1,8 @@
 import styles from '../style'
-import { discount, robot } from '../assets'
+import { discount, robot } from '../assets/index.js'
 import GetStarted from './GetStarted'
 
 const Hero = () => {
-  
   return (
     <section
       id="home"

@@ -1,5 +1,5 @@
 import styles from '../style'
-import { logo } from '../assets'
+import { logo } from '../assets/index.js'
 import { footerLinks, socialMedia } from '../constants'
 import { Link } from 'react-router-dom'
 
